@@ -2,7 +2,7 @@
 Basic ROBLOX ModuleScript for Suggesting things, made for Autofill/Autocorrect. 
 
 ## Installing (using)
- * Option 1. Use the 'SuggestionService.lua' file [here]().
+ * Option 1. Use the 'SuggestionService.lua' file [here](https://raw.githubusercontent.com/clonedsource/SuggestionService/main/SuggestionService.lua).
 1. Put it in an empty modulescript.
 2. Require said modulescript: ```local SuggestionService = require(script.SuggestionService)```
 
